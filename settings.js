@@ -26,24 +26,24 @@ global.language = english  //change indonesia to english if you don't understand
 
 // Other
 // Other
-global.botname = "Maxii botོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ maxiiOfcོ ×፝֟͜×" //nama kalian
+global.botname = "shadow botོ" //namabot kalian
+global.ownername= "arun raj" //nama kalian
 global.myweb ="https://api.c.xyz" //bebas asal jan hapus
 global.youtube = "https://instagram.com/andy_mr_lit" //bebas asal jan hapus
 global.myweb2 = "https://linktr.ee/maxiofc" //bebas
 global.email = "maxiiihaitian@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['50947477839'] //premium user
-global.owner = ["50947477839","50947477839"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "50947477839" // nomor wa kalian
-global.ownernomerr = "+50941411147" //nmr wa kalian
+global.premium = ['919037858501'] //premium user
+global.owner = ["919037858501","919037858501"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "919037858501" // nomor wa kalian
+global.ownernomerr = "+919037858501" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
-global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© maxyboy' //sticker wm ubah
-global.author = 'created by maxy' //sticker wm ganti nama kalian
+global.background_welcome="https://i.imgur.com/a4J9BFh.jpeg" // maks size 30kb, agar welcome image nya tdk delay
+global.thumbGif = 'https://i.imgur.com/bwCxeYg.mp4'
+global.packname = 'shadow bot' //sticker wm ubah
+global.author = 'shadow bot' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
@@ -52,7 +52,7 @@ global.limitawal = {
     free: 25
 }
 
-global.adventureRPG = 'https://telegra.ph/file/ff94536d69e0f4f3e7b54.jpg'
+global.adventureRPG = 'https://telegra.ph/file/95a202f631ab7172c3f25.jpg'
 global.bankRPG = 'https://telegra.ph/file/ce47dca98cfdb34162abb.png'
 global.bansosRPG = 'https://telegra.ph/file/646af753f38fbf7bbbccc.jpg'
 global.bansosRPG_ = 'https://telegra.ph/file/ba18a18aac022170c8056.jpg'
